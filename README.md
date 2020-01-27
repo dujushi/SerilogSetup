@@ -1,4 +1,4 @@
-﻿# Serilog Setup
+# Serilog Setup
 This is a sample program to setup [Serilog](https://serilog.net/) for AspNetCore.
 
 ## Setup process
